@@ -7,3 +7,5 @@ navigation:
     url: /
   - title: Hello, Shanna
     url: setup
+  - title: PZA Uptake
+    url: pza
