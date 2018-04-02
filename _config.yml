@@ -9,3 +9,5 @@ navigation:
     url: setup
   - title: PZA Uptake
     url: pza
+  - title: Isoniazid Uptake
+    url: niz
